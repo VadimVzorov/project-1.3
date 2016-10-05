@@ -1,0 +1,10 @@
+div {
+	border: 1px;
+	background-color: black;
+	padding: 30px;
+	color: white;
+}
+
+a:link {
+	color: grey;
+}
